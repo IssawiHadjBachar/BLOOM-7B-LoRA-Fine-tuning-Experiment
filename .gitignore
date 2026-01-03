@@ -1,3 +1,5 @@
+mon_modele_lora_finetuned/
+
 # Training outputs and checkpoints
 outputs/
 *.pth
